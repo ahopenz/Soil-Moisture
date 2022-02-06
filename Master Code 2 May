@@ -6,7 +6,7 @@
 #include <ArduinoOTA.h>
 #include <PubSubClient.h>
 
-const int soilPin = 34;
+const int soilPin = 33;
 const int voltPin = 33;
 
 // variable for storing the Soil and Battery voltages
